@@ -1,1 +1,1 @@
-# BC2020.github.io
+# bc-2020.github.io
